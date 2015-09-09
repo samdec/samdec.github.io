@@ -1,0 +1,12 @@
+# Site settings
+title: Sam DeCesare
+email: sam@samdecesare.com
+description: > # this means to ignore newlines until "baseurl:"
+  Programmer, philosopher, hockey player.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "samdecesare.com" # the base hostname & protocol for your site
+twitter_username: samdecesare
+github_username:  samdec
+
+# Build settings
+markdown: kramdown
